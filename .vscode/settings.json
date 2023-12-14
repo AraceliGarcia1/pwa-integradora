@@ -1,0 +1,14 @@
+{
+	"search.exclude": {
+		"**/target": true,
+		"**/test": true,
+		// "**/assets": true,
+		"**/node_modules": true,
+		".slcache": true,
+		"package-lock.json": true,
+	},
+	"editor.renderWhitespace": "none",
+	"workbench.editor.enablePreview": false,
+	"workbench.editor.enablePreviewFromQuickOpen": false,
+	"window.title": "🧑🏻‍🎨 tienda-frontend"
+}
